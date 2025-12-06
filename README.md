@@ -1,1 +1,1 @@
-# The office implemention of ClearSight-RS will be present soon.
+## The official implemention of ClearSight-RS will be present soon.
